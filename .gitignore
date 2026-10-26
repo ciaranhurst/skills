@@ -1,0 +1,8 @@
+# Claude runtime state - machine-specific, may contain account/config data
+claude/backups/
+claude/sessions/
+claude/.claude.json
+claude/*.local.json
+
+# Junction to externally-owned skill (C:\Users\hurstc\.agents\skills\find-skills)
+claude/skills/find-skills/
